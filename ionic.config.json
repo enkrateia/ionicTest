@@ -1,5 +1,7 @@
 {
   "name": "testLogin",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
